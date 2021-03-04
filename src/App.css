@@ -1,0 +1,32 @@
+.App {
+  margin: 0;
+}
+
+.header {
+  background-color: cadetblue;
+  height: 40px;
+}
+ul {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+img {
+  height: 150px;
+  width: 150px;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: cadetblue;
+  color: white;
+  text-align: center;
+}
+.btn {
+  margin: 10px;
+}
+.listofdog {
+  align-items: center;
+}
